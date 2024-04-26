@@ -1,0 +1,7 @@
+Deployment
+Ingress
+CronJob
+Service
+ServiceMonitor
+ConfigMap
+Secret
